@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // que 2-> Alphabet pattern for n=5
-
+//
 int main() {
     int n = 5; 
     int i, j;
